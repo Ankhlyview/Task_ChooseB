@@ -1,0 +1,14 @@
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:[m[K In function ‘[01m[Kcv::Mat[01;32m[K preprocess[m[K(cv::Mat)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:31:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::vector<cv::Point_<int> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+   31 |     for (int i = 0; [01;35m[Ki < contours.size()[m[K; ++i) {
+      |                     [01;35m[K~~^~~~~~~~~~~~~~~~~[m[K
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:[m[K In function ‘[01m[Kcv::Mat[01;32m[K detect_show[m[K(cv::Mat, cv::Mat)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:66:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreturn-type-Wreturn-type]8;;[m[K]
+   66 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:61:21:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kimg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   61 | Mat detect_show([01;35m[KMat img[m[K,Mat result)
+      |                 [01;35m[K~~~~^~~[m[K
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:61:29:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresult[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   61 | Mat detect_show(Mat img,[01;35m[KMat result[m[K)
+      |                         [01;35m[K~~~~^~~~~~[m[K

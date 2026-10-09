@@ -1,0 +1,40 @@
+[0.006s] Invoking command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card -- -j32 -l32
+[0.050s] [ 50%] Built target color_choose
+[0.051s] [ 75%] [32mBuilding CXX object CMakeFiles/card_detect.dir/src/CardDetect.cpp.o[0m
+[0.479s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:[m[K In function ‘[01m[Kcv::Mat[01;32m[K preprocess[m[K(cv::Mat)[m[K’:
+[0.479s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:31:23:[m[K [01;35m[Kwarning: [m[Kcomparison of integer expressions of different signedness: ‘[01m[Kint[m[K’ and ‘[01m[Kstd::vector<std::vector<cv::Point_<int> > >::size_type[m[K’ {aka ‘[01m[Klong unsigned int[m[K’} [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wsign-compare-Wsign-compare]8;;[m[K]
+[0.479s]    31 |     for (int i = 0; [01;35m[Ki < contours.size()[m[K; ++i) {
+[0.479s]       |                     [01;35m[K~~^~~~~~~~~~~~~~~~~[m[K
+[0.479s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:[m[K In function ‘[01m[Kcv::Mat[01;32m[K detect_show[m[K(cv::Mat, cv::Mat)[m[K’:
+[0.479s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:66:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreturn-type-Wreturn-type]8;;[m[K]
+[0.480s]    66 | [01;35m[K}[m[K
+[0.480s]       | [01;35m[K^[m[K
+[0.480s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:61:21:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kimg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[0.480s]    61 | Mat detect_show([01;35m[KMat img[m[K,Mat result)
+[0.480s]       |                 [01;35m[K~~~~^~~[m[K
+[0.480s] [01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:61:29:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresult[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+[0.480s]    61 | Mat detect_show(Mat img,[01;35m[KMat result[m[K)
+[0.480s]       |                         [01;35m[K~~~~^~~~~~[m[K
+[0.568s] [100%] [32m[1mLinking CXX executable card_detect[0m
+[0.818s] [100%] Built target card_detect
+[0.827s] Invoked command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card -- -j32 -l32
+[0.833s] Invoking command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card
+[0.838s] -- Install configuration: ""
+[0.838s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/color_choose
+[0.838s] -- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/card_detect
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/package_run_dependencies/detect_card
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/parent_prefix_path/detect_card
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.sh
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.dsv
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.sh
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.dsv
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.bash
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.sh
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.zsh
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.dsv
+[0.839s] -- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.dsv
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/packages/detect_card
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig.cmake
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig-version.cmake
+[0.839s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.xml
+[0.840s] Invoked command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card

@@ -1,0 +1,4 @@
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/DetectCard.cpp:[m[K In function ‘[01m[Kint[01;32m[K main[m[K()[m[K’:
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/DetectCard.cpp:20:31:[m[K [01;35m[Kwarning: [m[Kleft operand of comma operator has no effect [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-value-Wunused-value]8;;[m[K]
+   20 |     namedWindow("Tracer Bar",([01;35m[K640[m[K,200));
+      |                               [01;35m[K^~~[m[K

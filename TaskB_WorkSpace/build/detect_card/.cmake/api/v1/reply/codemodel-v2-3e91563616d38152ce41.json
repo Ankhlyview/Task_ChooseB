@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-e02533dca3c5d53de084.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "detect_card",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "card_detect::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-card_detect-14a6cc918295911ac575.json",
+					"name" : "card_detect",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "color_choose::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-color_choose-f49352619b25d674fa17.json",
+					"name" : "color_choose",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "detect_card_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-detect_card_uninstall-25fb3c0a3885ade9fd03.json",
+					"name" : "detect_card_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-24eae63bc185f03edd2e.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card",
+		"source" : "/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

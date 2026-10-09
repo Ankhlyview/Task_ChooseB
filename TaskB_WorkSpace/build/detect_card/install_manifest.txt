@@ -1,0 +1,17 @@
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/color_choose
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/card_detect
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/package_run_dependencies/detect_card
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/parent_prefix_path/detect_card
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.sh
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.dsv
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.sh
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.dsv
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.bash
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.sh
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.zsh
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.dsv
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.dsv
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/packages/detect_card
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig.cmake
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig-version.cmake
+/home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.xml

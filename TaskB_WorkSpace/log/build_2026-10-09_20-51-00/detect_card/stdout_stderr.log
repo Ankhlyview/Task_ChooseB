@@ -1,0 +1,32 @@
+[ 50%] Built target color_choose
+[ 75%] [32mBuilding CXX object CMakeFiles/card_detect.dir/src/CardDetect.cpp.o[0m
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:[m[K In function ‘[01m[Kcv::Mat[01;32m[K detect_show[m[K(cv::Mat, cv::Mat)[m[K’:
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:69:1:[m[K [01;35m[Kwarning: [m[Kno return statement in function returning non-void [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wreturn-type-Wreturn-type]8;;[m[K]
+   69 | [01;35m[K}[m[K
+      | [01;35m[K^[m[K
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:64:21:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kimg[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   64 | Mat detect_show([01;35m[KMat img[m[K,Mat result)
+      |                 [01;35m[K~~~~^~~[m[K
+[01m[K/home/adh-a-a/Task/TaskB_WorkSpace/src/detect_card/src/CardDetect.cpp:64:29:[m[K [01;35m[Kwarning: [m[Kunused parameter ‘[01m[Kresult[m[K’ [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wunused-parameter-Wunused-parameter]8;;[m[K]
+   64 | Mat detect_show(Mat img,[01;35m[KMat result[m[K)
+      |                         [01;35m[K~~~~^~~~~~[m[K
+[100%] [32m[1mLinking CXX executable card_detect[0m
+[100%] Built target card_detect
+-- Install configuration: ""
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/color_choose
+-- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/card_detect
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/package_run_dependencies/detect_card
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/parent_prefix_path/detect_card
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.bash
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.sh
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.zsh
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.dsv
+-- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.dsv
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/packages/detect_card
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig.cmake
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig-version.cmake
+-- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.xml

@@ -1,0 +1,24 @@
+[0.008s] Invoking command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card -- -j32 -l32
+[0.053s] [ 50%] [32mBuilding CXX object CMakeFiles/color_choose.dir/src/DetectCard.cpp.o[0m
+[0.597s] [100%] [32m[1mLinking CXX executable color_choose[0m
+[0.861s] [100%] Built target color_choose
+[0.869s] Invoked command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card -- -j32 -l32
+[0.875s] Invoking command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card
+[0.880s] -- Install configuration: ""
+[0.880s] -- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/lib/detect_card/color_choose
+[0.880s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/package_run_dependencies/detect_card
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/parent_prefix_path/detect_card
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.sh
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/ament_prefix_path.dsv
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.sh
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/environment/path.dsv
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.bash
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.sh
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.zsh
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/local_setup.dsv
+[0.881s] -- Installing: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.dsv
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/ament_index/resource_index/packages/detect_card
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig.cmake
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/cmake/detect_cardConfig-version.cmake
+[0.881s] -- Up-to-date: /home/adh-a-a/Task/TaskB_WorkSpace/install/detect_card/share/detect_card/package.xml
+[0.882s] Invoked command in '/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy CONDA_PROMPT_MODIFIER=(base) DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card

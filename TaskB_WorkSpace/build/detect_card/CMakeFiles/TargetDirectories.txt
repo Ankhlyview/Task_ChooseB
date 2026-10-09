@@ -1,0 +1,11 @@
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/uninstall.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/detect_card_uninstall.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/color_choose.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/card_detect.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/test.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/edit_cache.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/rebuild_cache.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/list_install_components.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/install.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/install/local.dir
+/home/adh-a-a/Task/TaskB_WorkSpace/build/detect_card/CMakeFiles/install/strip.dir
